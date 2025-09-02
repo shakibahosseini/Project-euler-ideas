@@ -9,7 +9,7 @@ What is the sum of the digits of the number *2¹⁰⁰⁰* ?
 --------------
 Note:
 
-Wenn we have a number and we want to add its digits, we use this methode:<br>
+- Wenn we have a number and we want to add its digits, we use this methode:<br>
 number : 654
 
 1. 654 // 10 and rest is: 4<br>
